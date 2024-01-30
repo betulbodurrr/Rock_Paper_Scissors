@@ -1,0 +1,242 @@
+Bilgisayar - Kullanıcı Karşılaşması Seçildi.
+
+Oyun en fazla 10 el oynanacak. (Önceden Kazanan Olmazsa)
+
+------Maç Başlıyor !-------
+
+Oyuna Hoşgeldin Betul
+
+-> Round 1 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas1 Makas2 Tas1 Makas3 Tas2 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 Tas1 Kagit1 Tas2 Kagit2 
+
+Makas1 Seçildi.
+Kagit1 Seçildi.
+
+Makas1
+Dayanıklılık: 18.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 5.0
+
+Kagit1
+Dayanıklılık: 15.0
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 1.25
+
+--------Next Round--------
+
+Bilgisayar 1: 20
+Betul: 0
+
+-> Round 2 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas2 Tas1 Makas3 Tas2 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 Tas1 Tas2 Kagit2 
+
+Tas2 Seçildi.
+Makas1 Seçildi.
+
+Tas2
+Dayanıklılık: 18.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 5.0
+
+Makas1
+Dayanıklılık: 15.0
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 1.25
+
+--------Next Round--------
+
+Bilgisayar 1: 40
+Betul: 0
+
+-> Round 3 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas2 Tas1 Makas3 
+Betul Oyuncusunun Elindeki Nesneler: Tas1 Tas2 Kagit2 
+
+Tas1 Seçildi.
+Kagit2 Seçildi.
+
+Tas1
+Dayanıklılık: 15.0
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 1.25
+
+Kagit2
+Dayanıklılık: 18.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 5.0
+
+--------Next Round--------
+
+Bilgisayar 1: 40
+Betul: 20
+
+-> Round 4 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas2 Makas3 
+Betul Oyuncusunun Elindeki Nesneler: Tas1 Tas2 
+
+Makas2 Seçildi.
+Tas1 Seçildi.
+
+Makas2
+Dayanıklılık: 15.0
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 1.25
+
+Tas1
+Dayanıklılık: 18.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 5.0
+
+--------Next Round--------
+
+Bilgisayar 1: 40
+Betul: 40
+
+-> Round 5 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas3 
+Betul Oyuncusunun Elindeki Nesneler: Tas2 
+
+Makas3 Seçildi.
+Tas2 Seçildi.
+
+Makas3
+Dayanıklılık: 15.0
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 1.25
+
+Tas2
+Dayanıklılık: 18.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 5.0
+
+--------Next Round--------
+
+Bilgisayar 1: 40
+Betul: 60
+
+-> Round 6 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas1 Makas2 Tas1 Makas3 Tas2 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 Tas1 Kagit1 Tas2 Kagit2 
+
+Tas2 Seçildi.
+Tas1 Seçildi.
+
+Tas2
+Dayanıklılık: 18.25
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 0.5
+
+Tas1
+Dayanıklılık: 18.25
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 0.5
+
+--------Next Round--------
+
+Bilgisayar 1: 40
+Betul: 60
+
+-> Round 7 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas1 Makas2 Tas1 Makas3 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 Kagit1 Tas2 Kagit2 
+
+Makas3 Seçildi.
+Kagit1 Seçildi.
+
+Makas3
+Dayanıklılık: 13.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 5.0
+
+Kagit1
+Dayanıklılık: 10.0
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 1.25
+
+--------Next Round--------
+
+Bilgisayar 1: 60
+Betul: 60
+
+-> Round 8 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas1 Makas2 Tas1 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 Tas2 Kagit2 
+
+Tas1 Seçildi.
+Tas2 Seçildi.
+
+Tas1
+Dayanıklılık: 14.5
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 0.5
+
+Tas2
+Dayanıklılık: 18.25
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 0.5
+
+--------Next Round--------
+
+Bilgisayar 1: 60
+Betul: 60
+
+-> Round 9 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas1 Makas2 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 Kagit2 
+
+Makas1 Seçildi.
+Kagit2 Seçildi.
+
+Makas1 Rütbe Atladı ! !
+
+Makas1
+Dayanıklılık: 17.5
+Seviye Puanı: 40.0
+Karşı tarafa etkisi: 5.0
+
+Kagit2
+Dayanıklılık: 13.75
+Seviye Puanı: 20.0
+Karşı tarafa etkisi: 1.25
+
+--------Next Round--------
+
+Bilgisayar 1: 80
+Betul: 60
+
+-> Round 10 <-
+
+1. Bilgisayarın Elindeki Nesneler: Makas2 
+Betul Oyuncusunun Elindeki Nesneler: Makas1 
+
+Makas2 Seçildi.
+Makas1 Seçildi.
+
+Makas2
+Dayanıklılık: 14.5
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 0.5
+
+Makas1
+Dayanıklılık: 14.5
+Seviye Puanı: 0.0
+Karşı tarafa etkisi: 0.5
+
+--------Next Round--------
+
+Bilgisayar 1: 80
+Betul: 60
+
+Computer is Winner ! Congrulations !
+
