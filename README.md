@@ -8,7 +8,7 @@ It is written in the Python language.<br>
 
 Project Description:<br>
 <br>
-[For Project Details, Click Here.](https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/Project_Report)
+[Proje Detayları için Tıklayınız.](https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/Proje-2.pdf)
 
 
 
@@ -20,7 +20,7 @@ Python dilinde yazılmıştır.<br>
 Proje Açıklaması:<br>
 <br>
 
-[Proje Detayları için Tıklayınız.](https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/Project_Report)
+[Proje Detayları için Tıklayınız.](https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/Proje-2.pdf)
 
 
 <br><br>
