@@ -39,10 +39,10 @@ The game ends when the objects of one of the two players are exhausted or when t
 
 <br><br>
 Computer vs Computer<br><br>
-<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/resim_2024-01-30_215900063.png"  height="400" width="700" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/resim_2024-01-30_215924912.png"  height="400" width="700" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/resim_2024-01-30_215931776.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/img1.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/img2.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/img3.png"  height="400" width="700" /></a><br><br>
 User vs Computer<br><br>
-<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/resim_2024-01-30_220024025.png"  height="400" width="700" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/resim_2024-01-30_220049920.png"  height="400" width="700" /></a><br><br>
-<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/resim_2024-01-30_220110517.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/img4.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/img5.png"  height="400" width="700" /></a><br><br>
+<img align="center" src="https://github.com/betulbodurrr/Rock_Paper_Scissors/blob/main/img6.png"  height="400" width="700" /></a><br><br>
